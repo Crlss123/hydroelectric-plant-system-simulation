@@ -23,7 +23,7 @@ This C++ project simulates the management of a hydroelectric plant system, where
 ## System Requirements
 
 - C++11 or later
-- GCC or Clang compiler
+- [GCC or Clang compiler](https://code.visualstudio.com/docs/languages/cpp#_install-a-compiler)
 - A terminal to run the simulation
 
 ## Installation
