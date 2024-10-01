@@ -2,7 +2,7 @@
 
 This C++ project simulates the management of a hydroelectric plant system, where users can monitor workers, track the status of different plants, and calculate each plant's contribution to the overall electrical output. The simulation provides insights into the plant's operational efficiency and helps manage the workforce effectively.
 
-**Note: The code in itself is in spanish and whole interface of the application.
+**Note: The code in itself is in spanish and the whole interface of the application.
 
 ## Table of Contents
 
