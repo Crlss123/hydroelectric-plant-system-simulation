@@ -8,8 +8,6 @@ This C++ project simulates the management of a hydroelectric plant system, where
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
